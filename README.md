@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # BioSida
 
 NAMNKONVENTIONER
@@ -25,3 +26,6 @@ DAILY SCRUM
 =======
 # spegelnAPI-Tester
 >>>>>>> dbe46c8dd931cbf6631a18abd67a072a4b298fa1
+=======
+# bioApiTest
+>>>>>>> 2f329c0333a884a46c99babf78d2f789a5d7b76d
