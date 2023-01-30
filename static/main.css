@@ -17,6 +17,9 @@ section ul {
   height: 100%;
   width: 100%;
 }
+section ul li {
+  margin: 20px;
+}
 section ul div {
   margin: 0.1%;
   border-radius: 4px;
@@ -35,6 +38,10 @@ section ul div h3 {
 }
 section ul div img {
   margin: 3%;
+}
+
+article img {
+  max-width: 150%;
 }
 
 .comming-soon {
