@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BioSida
 
 NAMNKONVENTIONER
@@ -21,3 +22,6 @@ DAILY SCRUM
   -2022-12-22 Torsdag
     -Sprinten påbörjad, alla valde ett PBI från sprint backlog att börja arbeta med
     -Nästa daily scrum blir 2022-12-28, mjukstart pga röda dagar
+=======
+# spegelnAPI-Tester
+>>>>>>> dbe46c8dd931cbf6631a18abd67a072a4b298fa1
